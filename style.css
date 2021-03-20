@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: darkorange;
+scroll-behavior: smooth;
+}
+.h1 {
+color: blue;
+    font-family:fantasy;
+     font-weight:bold;
+}
